@@ -50,15 +50,15 @@ Everything is themed in **Catppuccin Mocha** 🌸
 
 | Component | Choice |
 |---|---|
-| **OS** | Arch Linux / Fedora (+ Windows with WSL) |
+| **OS** | Arch Linux + Windows ( with DualBoot ) |
 | **Compositor** | Hyprland (modular Lua config), exploring dwl / dwm |
 | **Shell / Bar** | Custom **Quickshell** (QML) bar, previously Waybar |
 | **Terminal** | Ghostty |
-| **Shell** | zsh (Zinit / Oh My Zsh, Powerlevel10k) |
+| **Shell** | zsh  |
 | **Multiplexer** | tmux (TPM, resurrect, continuum) |
 | **Editor** | Neovim (lazy.nvim, Mason LSP, Telescope, Neo-tree, obsidian.nvim) |
-| **Launcher** | Fuzzel / rofi |
-| **Files** | Yazi, Dolphin |
+| **Launcher** | Custom **Quickshell** (QML) bar |
+| **Files** | Yazi, Nautilus |
 | **Lock screen** | Hyprlock |
 | **Browser** | Zen |
 | **Dotfiles** | Managed with GNU Stow |
