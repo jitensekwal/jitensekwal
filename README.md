@@ -1,45 +1,133 @@
-# Hi there, I'm [Your Name]! 👋
+<div align="center">
 
-![Banner Image](your_banner_image_url_here)
+# 👋 Hey, I'm Jiten
 
-## About Me 🚀
+**Engineering student @ LNMIIT Jaipur · Systems programming enthusiast · Terminal dweller**
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+*I build my tools, then I build things with my tools.*
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=CBA6F7&center=true&vCenter=true&width=520&lines=Learning+C+the+hard+way;Ricing+Hyprland+%26+Quickshell;Catppuccin+Mocha+everything;Keyboard+first%2C+mouse+optional)
 
-## My Skills 🧠
+</div>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+---
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+## 🧑‍💻 About Me
 
-## Featured Projects 💻
+- 🎓 Studying at **LNMIIT, Jaipur**, with coursework spanning programming, electronics, and mechanics (kinematics, dynamics, tensor of inertia)
+- 🔧 Currently going deep on **C**, coming from a C++ background, with a focus on memory management, pointer arithmetic, and systems-level programming
+- 🐧 Obsessive about my **Linux desktop**: Arch, Fedora, Hyprland, and a hand-built Quickshell shell
+- ⌨️ I believe in keyboard-driven workflows and **snappy, productivity-first** setups over pretty-but-slow ones
+- 📝 Edit config files directly. GUI settings tools are not my thing.
 
-### [Project 1 Title](project_1_link)
+---
 
-![Project 1 Screenshot](project_1_screenshot_url)
+## 🛠️ Tech & Tools
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Languages**
 
-### [Project 2 Title](project_2_link)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Shell](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+**Environment**
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Get in Touch 📬
+---
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+## 🖥️ My Setup
 
+Everything is themed in **Catppuccin Mocha** 🌸
 
+| Component | Choice |
+|---|---|
+| **OS** | Arch Linux / Fedora (+ Windows with WSL) |
+| **Compositor** | Hyprland (modular Lua config), exploring dwl / dwm |
+| **Shell / Bar** | Custom **Quickshell** (QML) bar, previously Waybar |
+| **Terminal** | Ghostty |
+| **Shell** | zsh (Zinit / Oh My Zsh, Powerlevel10k) |
+| **Multiplexer** | tmux (TPM, resurrect, continuum) |
+| **Editor** | Neovim (lazy.nvim, Mason LSP, Telescope, Neo-tree, obsidian.nvim) |
+| **Launcher** | Fuzzel / rofi |
+| **Files** | Yazi, Dolphin |
+| **Lock screen** | Hyprlock |
+| **Browser** | Zen |
+| **Dotfiles** | Managed with GNU Stow |
+| **Theming** | matugen-driven, plus hand-tuned GTK / Qt (Kvantum, qt5ct/qt6ct) |
+
+---
+
+## 🚧 What I'm Working On
+
+- 🐚 **Quickshell shell**: modular QML config with a bar, launcher, and notification daemon (replacing mako), plus a power menu and window switcher
+- 🎨 **Wallpaper-to-theme pipeline**: a matugen script that picks a wallpaper via rofi and regenerates themes for Waybar, Hyprland, rofi, mako, and hyprlock
+- 🎬 **vidmirror**: a zsh script that mirrors a folder into DaVinci Resolve-friendly encodings, keeping the directory structure
+- 🗂️ **Downloads sorter**: a PowerShell script to auto-organize files
+- 📚 **Learning C properly**: K&R, *Expert C Programming*, CS:APP, and reading real codebases like Redis and the Linux kernel
+- 🧠 **Notion workspace**: migrating from Obsidian and building trackers for finance, assignments, notes, journaling, games, movies, and books
+
+---
+
+## 📚 Currently Learning
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int *knowledge = malloc(sizeof(int) * INFINITY);  // TODO: free() eventually
+    printf("Segmentation fault (core dumped)\n");
+    return 0;
+}
+```
+
+- Systems programming & memory management in C
+- QML / Quickshell internals
+- Circuit analysis, network theorems, and Laplace/phasor methods
+- Rigid body dynamics and the tensor of inertia
+
+---
+
+## 📂 Featured Repositories
+
+<!-- Swap in your real repos once they are public -->
+
+| Repo | Description |
+|---|---|
+| [`dotfiles`](https://github.com/YOUR_USERNAME/dotfiles) | My Catppuccin-themed Hyprland / Neovim / zsh configs, managed with Stow |
+| [`quickshell-config`](https://github.com/YOUR_USERNAME/quickshell-config) | Modular Quickshell bar, launcher, and notification daemon |
+| [`vidmirror`](https://github.com/YOUR_USERNAME/vidmirror) | Mirror a folder into DaVinci Resolve-compatible encodings |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+*"I use Arch, btw."* 🐧
+
+</div>
