@@ -14,10 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying at **LNMIIT, Jaipur**, with coursework spanning programming, electronics, and mechanics (kinematics, dynamics, tensor of inertia)
-- 🔧 Currently going deep on **C**, coming from a C++ background, with a focus on memory management, pointer arithmetic, and systems-level programming
-- 🐧 Obsessive about my **Linux desktop**: Arch, Fedora, Hyprland, and a hand-built Quickshell shell
-- ⌨️ I believe in keyboard-driven workflows and **snappy, productivity-first** setups over pretty-but-slow ones
+- 🎓 Studying at **LNMIIT, Jaipur**, with coursework spanning programming, electronics, and mechanics.
+- 🔧 Currently going deep on **C**, with knowledge of C++ .
+- 🐧 Obsessive about my **Linux desktop**.
 - 📝 Edit config files directly. GUI settings tools are not my thing.
 
 ---
