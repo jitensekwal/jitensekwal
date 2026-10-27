@@ -36,12 +36,11 @@
 **Environment**
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
@@ -103,9 +102,7 @@ int main(void) {
 
 | Repo | Description |
 |---|---|
-| [`dotfiles`](https://github.com/YOUR_USERNAME/dotfiles) | My Catppuccin-themed Hyprland / Neovim / zsh configs, managed with Stow |
-| [`quickshell-config`](https://github.com/YOUR_USERNAME/quickshell-config) | Modular Quickshell bar, launcher, and notification daemon |
-| [`vidmirror`](https://github.com/YOUR_USERNAME/vidmirror) | Mirror a folder into DaVinci Resolve-compatible encodings |
+| [`dotfiles`](https://github.com/jitensekwal/dotfiles) | My Catppuccin-themed dwm_suckless / Neovim / zsh configs, managed with Stow |
 
 ---
 
@@ -113,8 +110,8 @@ int main(void) {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jitensekwal&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitensekwal&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
 </div>
 
@@ -124,9 +121,9 @@ int main(void) {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitensekwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiten-sekwal-948b00400/)
+[![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitensekwal44@gmail.com)
 
 *"I use Arch, btw."* 🐧
 
